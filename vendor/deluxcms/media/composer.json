@@ -1,0 +1,20 @@
+{
+    "name": "deluxcms/media",
+    "description": "deluxcms media",
+    "keywords": ["yii2", "deluxcms", "media", "deluxcms media"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "smister",
+            "email": "398009951@qq.com"
+        }
+    ],
+    "require": {
+		"2amigos/yii2-file-upload-widget" : "~1.0",
+		"yiisoft/yii2-imagine" : "*",
+		"tinymce/tinymce" : "*"
+    },
+    "autoload": {
+        "psr-4": { "deluxcms\\media\\": "" }
+    }
+}

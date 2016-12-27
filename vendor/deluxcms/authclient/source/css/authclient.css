@@ -1,0 +1,21 @@
+.auth-icon.weibo,
+.auth-icon.weibo_openid,
+.auth-icon.weibo_oauth {
+    background: url('../images/authclient.png') no-repeat;
+    background-position: 0 0px;
+}
+
+.auth-icon.qq,
+.auth-icon.qq_openid,
+.auth-icon.qq_oauth {
+    background: url('../images/authclient.png') no-repeat;
+    background-position: 0 -32px;
+}
+
+ul.auth-clients {
+    padding-left: 0px;
+    margin-bottom: 0px;
+}
+.auth-clients .auth-client .auth-link{
+    width: 40px;
+}

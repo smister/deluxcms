@@ -1,0 +1,16 @@
+{
+    "name": "deluxcms/rbac",
+    "description": "deluxcms rbac",
+    "keywords": ["yii2", "deluxcms", "rbac", "deluxcms rbac"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "smister",
+            "email": "398009951@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": { "deluxcms\\rbac\\": "" }
+    }
+}

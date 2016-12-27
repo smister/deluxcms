@@ -1,0 +1,1 @@
+<?= \deluxcms\media\widgets\GalleryWidget::widget(['mode' => $mode]) ?>

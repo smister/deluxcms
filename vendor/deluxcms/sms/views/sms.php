@@ -1,0 +1,7 @@
+<?php if ($title) : ?>
+【<?= $title ?>】
+<?php endif; ?>
+您的验证码为：<?= $code ?>
+<?php if ($date) : ?>
+，有效时间<?= $date ?>
+<?php endif; ?>

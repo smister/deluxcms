@@ -1,0 +1,19 @@
+{
+    "name": "deluxcms/post",
+    "description": "deluxcms post",
+    "keywords": ["yii2", "deluxcms", "post", "deluxcms post"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "smister",
+            "email": "398009951@qq.com"
+        }
+    ],
+    "require": {
+		"nicolasbize/magicsuggest": "*",
+		"deluxcms/media" : "*"
+	},
+    "autoload": {
+        "psr-4": { "deluxcms\\post\\": "" }
+    }
+}

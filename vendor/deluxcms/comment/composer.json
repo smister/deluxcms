@@ -1,0 +1,20 @@
+{
+    "name": "deluxcms/comment",
+    "description": "deluxcms comment",
+    "keywords": ["yii2", "deluxcms", "comment", "deluxcms comment"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "smister",
+            "email": "398009951@qq.com"
+        }
+    ],
+    "require": {
+		"deluxcms/member" : "*",
+		"deluxcms/post" : "*",
+		"deluxcms/media" : "*"
+	},
+    "autoload": {
+        "psr-4": { "deluxcms\\comment\\": "" }
+    }
+}

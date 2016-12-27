@@ -1,0 +1,19 @@
+{
+    "name": "deluxcms/auth",
+    "description": "deluxcms auth",
+    "keywords": ["yii2", "deluxcms", "auth", "deluxcms auth"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "smister",
+            "email": "398009951@qq.com"
+        }
+    ],
+    "require": {
+		"deluxcms/member" : "*",
+		"deluxcms/authclient" : "*"
+	},
+    "autoload": {
+        "psr-4": { "deluxcms\\auth\\": "" }
+    }
+}

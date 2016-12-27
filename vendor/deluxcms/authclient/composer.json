@@ -1,0 +1,18 @@
+{
+    "name": "deluxcms/authclient",
+    "description": "deluxcms authclient",
+    "keywords": ["yii2", "deluxcms", "authclient", "deluxcms authclient"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "smister",
+            "email": "398009951@qq.com"
+        }
+    ],
+    "require": {
+		"yiisoft/yii2-authclient": "^2.1"
+	},
+    "autoload": {
+        "psr-4": { "deluxcms\\authclient\\": "" }
+    }
+}
