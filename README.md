@@ -72,6 +72,10 @@ git clone git连接 本地目录
 		throw new NotFoundHttpException("没有使用权限");
 	}
 ```
+6)访问demo
+前台:http://www.deluxcms.com:81/
+后台:http://b.deluxcms.com:81/
+账号密码都是smister和123456
 
 更多
 -----------
